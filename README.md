@@ -1,0 +1,1 @@
+This Tool is built with Html, Css, and Javascript.The user will enter his/her name and birth year which will calculate user's age based on the year he/she typed in.This project features Modern UI/UX, responsive design & smooth interaction
